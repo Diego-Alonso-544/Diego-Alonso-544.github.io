@@ -1,22 +1,11 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Reportes Semanales"
+    url: /reportes_semanales/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Trabajos Grupales en R"
+    url: /trabajos_grupales_r/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Trabajos Grupales en Python"
+    url: /trabajos_grupales_py/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
