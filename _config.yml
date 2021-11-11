@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "es-Peru"
-title                    : "Repositorio Personal Estadistica Aplicada 2021-2"
+title                    : "Diego Alonso Gómez"
 title_separator          : "-"
 name                     : &name "Diego Alonso Gómez"
-description              : &description "Estudiante de econompia por la PUCP"
+description              : &description "Economics student - PUCP"
 url                      : https://Diego-Alonso-544.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Diego-Alonso-544/Diego-Alonso-544.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : Idago8961
 facebook:
   username               :
   app_id                 :
@@ -85,10 +85,10 @@ author:
   bio              : "Estudiante de Economia en la PUCP."
   location         : "Lima, Perú"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "-"
+  pubmed           : #
+  googlescholar    : #
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  #
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Diego-Alonso-544"
+  github           : "https://github.com/Diego-Alonso-544"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : #
   lastfm           :
   linkedin         :
-  orcid            : "-"
+  orcid            : #
   pinterest        :
   soundcloud       :
-  stackoverflow    : # -
+  stackoverflow    : # 
   steam            :
   tumblr           :
-  twitter          : # NA
+  twitter          : "https://twitter.com/Idago8951"
   vine             :
   weibo            :
   xing             :
