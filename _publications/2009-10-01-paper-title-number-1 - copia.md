@@ -1,9 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Workgroup 1 - Estadística Aplicada"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2009-10-01-paper-title-number-1-copia
 excerpt: 'In this work it was solved an inferential problem: the Gender Wage Gap'
-date: 2009-10-01
+date: 2021-11-01
 venue: 'Estadistica Aplicada - PUCP (2021)'
 paperurl: 'https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_1/group2_lab_R.ipynb'
 citation: 'Gómez, Diego (2021)'
