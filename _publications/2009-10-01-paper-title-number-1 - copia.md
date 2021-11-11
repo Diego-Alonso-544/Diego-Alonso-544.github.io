@@ -2,14 +2,14 @@
 title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'In this work it was solved an inferential problem: the Gender Wage Gap'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Estadistica Aplicada - PUCP (2021)'
+paperurl: 'https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_1/group2_lab_R.ipynb'
+citation: 'Gómez, Diego (2021)'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The discussion of causal inference began in this block, focusing on randomized control trials (RCTs). In the randomized control trial, units are randomly divided into those that receive a treatment and those that do not receive treatment (a placebo). We then calculated the difference in the mean results in the treated and untreated groups, the mean treatment effect (ATE). By considering pretreatment covariates, we can improve the precision of the ATE estimate or explore heterogeneity between subgroups or both. We describe the methods to do this and apply them to various RCTs.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_1/group2_lab_R.ipynb)
+
