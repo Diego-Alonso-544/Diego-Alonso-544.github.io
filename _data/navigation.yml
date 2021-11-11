@@ -1,11 +1,11 @@
 # main links links
 main:
-  - title: "Reportes Semanales"
-    url: /reportes_semanales/
+  - title: "CV"
+    url: /cv/
 
-  - title: "Trabajos Grupales en R"
-    url: /trabajos_grupales_r/    
+  - title: "Works"
+    url: /teaching/    
 
-  - title: "Trabajos Grupales en Python"
-    url: /trabajos_grupales_py/    
+  - title: "Portafolio"
+    url: /portafolio/    
     
