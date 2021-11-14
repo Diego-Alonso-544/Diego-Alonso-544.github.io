@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Workgroup 5 - Estadística Aplicada"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2010-10-01-paper-title-number-3-copia
+excerpt: 'Description of Multicollinearity and some examples of its implementation. Besides that, analysis of RCT data with precision adjustment.' 
+date: 2021-11-01
+venue:  #  
+paperurl: 'https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_5/group2_lab5_causaltree2.html'
+citation: # 
 ---
-This paper is about the number 3. The number 4 is left for future work.
+In this work it was used bootstraping tools and causal trees, both for the  analysis you have to use the Pennsylvania re-employment bonus experiment. We subset the data for tg== 4 | tg==0, so we are compared treatment group 4 and the control group.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Check the causal tree work here](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_5/group2_lab5_causaltree2.html)
+[Check the bootstrap work here](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_5/group2_lab5_bootstrap_R.html)

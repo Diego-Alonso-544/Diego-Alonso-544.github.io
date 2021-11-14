@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Workgroup 2 - Estadística Aplicada"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'In addition to the development of two cases of partialling-out using lasso, it is also explained the idea of sample splitting to evaluate the performance of prediction rules to a fellow student and show how to use it on the wage data.' 
+date: 2021-11-01
+venue:  #  
+paperurl: 'https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_2/group2_lab2_R.ipynb'
+citation: # 
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In addition to the development of two cases of partialling-out using lasso, it is also explained the idea of sample splitting to evaluate the performance of prediction rules to a fellow student and show how to use it on the wage data.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_2/group2_lab2_R.ipynb)
