@@ -8,3 +8,5 @@ redirect_from:
   - /about.html
 ---
 I am a bachelor economics student at Pontifica Universidad Católica del Peru (PUCP). My main interests’ fields are Development Economics, Time Series and Financial Topics.
+
+![library](/images/library_600x300.png "library")
