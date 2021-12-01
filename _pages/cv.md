@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+# PDF Version:
+[Click Here](https://github.com/Diego-Alonso-544/Diego-Alonso-544.github.io/blob/master/files/CV_Diego_November.pdf)
 
 ## Education
 
