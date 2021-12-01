@@ -1,6 +1,6 @@
 ---
 title: "Deusto Algorithms and Examples - 2021"
-excerpt: "In this document a brief map has been made using georeferenced data and the Onpe database of the first round to graph, at the district level, those places that voted for any of the 18 parties that were registered for the first electoral round.  <br/><img src='/images/deusto.png'>"
+excerpt: "This section stores all the codes and datasets developed in the Big Data Analytics course at the University of Deusto, Spain <br/><img src='/images/deusto.png'>"
 collection: portfolio
 ---
 
