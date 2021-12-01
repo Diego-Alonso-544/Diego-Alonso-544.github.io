@@ -1,7 +1,7 @@
 ---
-title: "Newton-Raphson algorithm"
-excerpt: "This code has developed an introduction for the general public about what the Newton-Raphson algorithm implies, and an example of how to execute it in Pyhton. <br/><img src='/images/newthon_rapson_500x300.png'>"
+title: "Deusto Algorithms and Examples"
+excerpt: "This section stores all the codes and datasets developed in the "Big Data Analytics" course at the University of Deusto, Spain. <br/><img src='/images/deusto.jpg'>"
 collection: portfolio
 ---
 
-This code has developed an introduction for the general public about what the Newton-Raphson algorithm implies, and an example of how to execute it in Pyhton. To see the code in more detail, [click here](https://github.com/Diego-Alonso-544/Diego-Alonso-544.github.io/tree/master/pyhton_docs/Newton-Raphson%20Algorithm).
+This section stores all the codes and datasets developed in the "Big Data Analytics" course at the University of Deusto, Spain. To see the files in detail, [click here](https://github.com/Diego-Alonso-544/Diego-Alonso-544.github.io/tree/master/pyhton_docs/Newton-Raphson%20Algorithm).
