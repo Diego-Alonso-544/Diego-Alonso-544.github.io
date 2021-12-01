@@ -1,6 +1,6 @@
 ---
 title: "Deusto Algorithms and Examples - 2021"
-excerpt: "In this section it's stored all the codes and datasets developed in the "Big Data Analytics" course at the University of Deusto, Spain. Here we put in practice tools such as text mining, neuronal networks, etc.  <br/><img src='/images/peru_elections-2021_2_300x500.png'>"
+excerpt: "In this section it is stored all the codes and datasets developed in the "Big Data Analytics" course at the University of Deusto, Spain. Here we put in practice tools such as text mining, neuronal networks, etc.  <br/><img src='/images/peru_elections-2021_2_300x500.png'>"
 collection: portfolio
 ---
 
