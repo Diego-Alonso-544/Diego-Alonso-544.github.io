@@ -4,4 +4,4 @@ excerpt: "Here are the successive advances of the research project carried out b
 collection: portfolio
 ---
 
-Here are the successive advances of the research project carried out by me during the thesis seminar courses at PUCP. To see the code in more detail, [click here](https://github.com/Diego-Alonso-544/Diego-Alonso-544.github.io/tree/master/pyhton_docs/Newton-Raphson%20Algorithm).
+Here are the successive advances of the research project carried out by me during the thesis seminar courses at PUCP. To see the code in more detail, [click here](https://github.com/Diego-Alonso-544/Diego-Alonso-544.github.io/tree/master/seminar_docs).
