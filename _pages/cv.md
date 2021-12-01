@@ -35,13 +35,10 @@ report in Tex format that meets the content required by the ministry to be later
 Training Course in Applied Econometrics,QLAB, Pontifical Catholic University of Peru November 2020 — February 2021
 GPA:18/20
 
-Financial Excel, CEPS-UNI, National University of Engineering February 2021 — March 2021
-GPA:15/20
-
 Mathematical and Computational Economics Topics with Python, Luis Chía, PUCP March 2021 — July 2021
 Order of Merit: 1° Place // GPA: 18/20
 
-Monetary theory, Paul Castillo Bardález Pontifical Catholic University of Peru August 2020 — December 2020
+Monetary Theory, Paul Castillo Bardález Pontifical Catholic University of Peru August 2020 — December 2020
 Order of Merit: 1° Place // GPA: 18/20
 
 International Finances, Alonso Segura Vasi Pontifical Catholic University of Peru March 2021 — July 2021
