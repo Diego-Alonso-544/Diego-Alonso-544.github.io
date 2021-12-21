@@ -1,5 +1,5 @@
 ---
-title: "Workgroup 5 - Estadística Aplicada"
+title: "Causal Trees and Bootstrap process: an application"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-3-copia
 excerpt: 'In this work it was used bootstraping tools and causal trees, both for the  analysis you have to use the Pennsylvania re-employment bonus experiment. We subset the data so we can compared treatment group 4 and the control group.' 
