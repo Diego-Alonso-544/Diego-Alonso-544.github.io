@@ -1,5 +1,5 @@
 ---
-title: "Workgroup 2 - Estadística Aplicada"
+title: "Lasso partialling-out using employment data"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'In addition to the development of two cases of partialling-out using lasso, it is also explained the idea of sample splitting to evaluate the performance of prediction rules to a fellow student and show how to use it on the wage data.' 
