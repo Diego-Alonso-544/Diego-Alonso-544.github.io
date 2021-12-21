@@ -1,5 +1,5 @@
 ---
-title: "Workgroup 1 - Estadística Aplicada"
+title: "Randomized control trials (RCTs), an application"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1-copia
 excerpt: 'In this work it was solved an inferential problem: the Gender Wage Gap' 
