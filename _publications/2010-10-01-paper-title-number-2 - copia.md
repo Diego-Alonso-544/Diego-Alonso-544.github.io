@@ -1,5 +1,5 @@
 ---
-title: "Workgroup 3 - Estadística Aplicada"
+title: "Dealing with Multicollinearity: analysis of RCT data with precision adjustment"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2-copia
 excerpt: 'Description of Multicollinearity and some examples of its implementation. Besides that, analysis of RCT data with precision adjustment.' 
