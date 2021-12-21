@@ -1,13 +1,11 @@
 # main links links
 main:
 
-  - title: "Portfolio"
+  - title: "Code and Projects"
     url: /portfolio/  
      
   - title: "CV"
     url: /cv/
 
-  - title: "University Works"
+  - title: "Personal Research"
     url: /publications/    
-
-
